@@ -168,8 +168,8 @@ const Contatc = () => {
           </AddressItem>
           <AddressItem>
             <Icon src={Send} />
-            <Text>contact@lama.dev</Text>
-            <Text>sales@lama.dev</Text>
+            <Text>contact@iliass.dev</Text>
+            <Text>sales@ilias.dev</Text>
           </AddressItem>
             </AdressContainer>
             </Wrapper>
