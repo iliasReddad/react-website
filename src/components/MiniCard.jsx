@@ -23,15 +23,7 @@ box-shadow: 3px 2px 16px 7px #000000;
   @media only screen and (max-width: 480px) {
     font-size: 14px; }
  `;
- const Btn =  styled.button`
-border: 2px solid white;
-border-radius: 10px;
-padding:  10px 15 px;
-background-color: crimson;
-color: white;
-font-weight: bold;
-cursor: pointer;
-`
+
 
 export const MiniCard = () => {
     return (
